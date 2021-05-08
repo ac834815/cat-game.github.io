@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cat-game/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cat-game/static/js/main.c360f1eb.chunk.js",
+    "main.js.map": "/cat-game/static/js/main.c360f1eb.chunk.js.map",
+    "runtime-main.js": "/cat-game/static/js/runtime-main.79ac01ee.js",
+    "runtime-main.js.map": "/cat-game/static/js/runtime-main.79ac01ee.js.map",
+    "static/js/2.b22dff10.chunk.js": "/cat-game/static/js/2.b22dff10.chunk.js",
+    "static/js/2.b22dff10.chunk.js.map": "/cat-game/static/js/2.b22dff10.chunk.js.map",
+    "static/js/3.17465d14.chunk.js": "/cat-game/static/js/3.17465d14.chunk.js",
+    "static/js/3.17465d14.chunk.js.map": "/cat-game/static/js/3.17465d14.chunk.js.map",
+    "index.html": "/cat-game/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cat-game/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b22dff10.chunk.js.LICENSE.txt": "/cat-game/static/js/2.b22dff10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cat-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ac01ee.js",
+    "static/js/2.b22dff10.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c360f1eb.chunk.js"
+  ]
+}
