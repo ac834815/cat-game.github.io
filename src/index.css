@@ -25,12 +25,16 @@ body {
 }
 
 .buttonRow {
+  position: relative;
+  top: 70%;
   display: flex;
   justify-content: space-evenly;
 }
 
-h1 {
+h3 {
+  position: absolute;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  align-self: center;
 }
 
 .buttonRow button {
